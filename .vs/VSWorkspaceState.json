@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\hud",
+    "\\src\\components\\race",
+    "\\src\\models",
+    "\\src\\models\\bank",
+    "\\src\\models\\matchmaker",
+    "\\src\\models\\player"
+  ],
+  "SelectedNode": "\\src\\Game.js",
+  "PreviewInSolutionExplorer": false
+}

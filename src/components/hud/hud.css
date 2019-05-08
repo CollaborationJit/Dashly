@@ -1,0 +1,26 @@
+.hud{
+    width: 600px;
+	height: 100%;
+}
+
+.challenge-area{
+	display:block
+}
+
+.score-area{
+	display:block
+
+}
+
+.player-info{
+
+}
+
+.hud div{
+	padding-top:30px;
+	padding-botton: 30px;
+}
+
+div, p, h1, h2, h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
